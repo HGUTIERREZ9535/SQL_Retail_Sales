@@ -24,7 +24,7 @@ information as: transactions, customer id, gender, age,category and total sales.
 - Write a SQL query to find the number of unique customers who purchased items from each category.
 - Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17).
 ### Results / Findings 
-- Using a CTE and the RANK() function, I identified the months with the highest revenue in 2022 and 2023.
+- Using a CTE and the RANK() function, It was  identified the months with the highest revenue in 2022 and 2023.
 - Male customers accounted for the highest number of transactions in the Beauty, Electronics, and Clothing categories.
 - This dataset provides insights into which months have the highest and lowest sales, helping the manufacturing team increase or decrease production accordingly. 
 ### Recomendations
