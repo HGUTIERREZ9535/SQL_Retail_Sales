@@ -18,9 +18,16 @@ information as: transactions, customer id, gender, age,category and total sales.
 - Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.
 - Write a SQL query to find all transactions where the total_sale is greater than 1000.
 - Write a SQL query to find the total number of transactions (transaction_id) made by each gender in each category.
+- Write a query to calculate the average sale for each month, find out the best selling month in each year
 - Write a SQL query to calculate the average sale for each month. Find out best selling month in each year.
 - Write a SQL query to find the top 5 customers based on the highest total sales.
 - Write a SQL query to find the number of unique customers who purchased items from each category.
 - Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17).
 ### Results / Findings 
+- Using a CTE and the RANK() function, I identified the months with the highest revenue in 2022 and 2023.
+- Male customers accounted for the highest number of transactions in the Beauty, Electronics, and Clothing categories.
+- This dataset provides insights into which months have the highest and lowest sales, helping the manufacturing team increase or decrease production accordingly. 
+### Recomendations
+- Once the top five customers have been identified, create a rewards program that gives these customers access to exclusive discounts and early access to special offers.
+- Increase marketing campaigns and customer engagement efforts to boost sales in the Beauty category, as it has the lowest sales among all product categories.
 
